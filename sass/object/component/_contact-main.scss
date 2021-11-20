@@ -1,0 +1,27 @@
+.contact-main {
+	textarea.wpcf7-textarea {
+		width: 70%;
+	}
+	.wpcf7-submit {
+		background-color: #3b80d3;
+    color: #fff;
+    padding: 15px 30px;
+    margin-top: 20px;
+    border: none;
+    width: 50%;
+    border-radius: 5px;
+    font-size: 1em;
+	}
+	.gray-bg {
+		padding: 100px 0;
+		background-color: #EDEDED;
+		@media screen and (max-width: 599px) {
+			
+		}
+		.container {
+			width: 85%;
+			margin: 0 auto;
+			background-color: #fff;
+		}
+	}
+}

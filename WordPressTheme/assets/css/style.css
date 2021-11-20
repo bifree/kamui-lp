@@ -527,6 +527,32 @@ header {
 	display: none;
 }
 
+.contact-main textarea.wpcf7-textarea {
+	width: 70%;
+}
+
+.contact-main .wpcf7-submit {
+	background-color: #3b80d3;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	font-size: 1em;
+	margin-top: 20px;
+	padding: 15px 30px;
+	width: 50%;
+}
+
+.contact-main .gray-bg {
+	background-color: #EDEDED;
+	padding: 100px 0;
+}
+
+.contact-main .gray-bg .container {
+	background-color: #fff;
+	margin: 0 auto;
+	width: 85%;
+}
+
 .lp-top .lp-top__cp {
 	margin-top: 95px;
 	width: 100%;
