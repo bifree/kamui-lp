@@ -527,8 +527,20 @@ header {
 	display: none;
 }
 
+.contact-main .sp-block {
+	display: none;
+}
+
+.contact-main textarea.wpcf7-textarea {
+	border: 1px solid #ccc;
+}
+
 .contact-main textarea.wpcf7-textarea {
 	width: 70%;
+}
+
+.contact-main input.wpcf7-text {
+	border-radius: 0.35rem;
 }
 
 .contact-main .wpcf7-submit {
@@ -549,8 +561,6 @@ header {
 
 .contact-main .gray-bg .container {
 	background-color: #fff;
-	margin: 0 auto;
-	width: 85%;
 }
 
 .lp-top .lp-top__cp {
@@ -575,12 +585,59 @@ header {
 	display: none;
 }
 
+.contact-main textarea.wpcf7-textarea {
+	width: 100%;
+}
+
+.contact-main textarea.wpcf7-textarea input {
+	width: 100%;
+}
+
 .contact-main {
+	width: 100%;
+}
+
+.contact-main input {
 	width: 100%;
 }
 
 .contact-main .gray-bg {
 	background-color: #fff;
+}
+
+.contact-main .gray-bg .container {
+	background-color: #fff;
+	margin: 0 auto;
+	padding-top: 0;
+	width: 95%;
+}
+
+.contact-main .gray-bg .container h1 {
+	font-size: 21px;
+	font-weight: 100;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.contact-main .gray-bg .container h1 .sp-block {
+	display: block;
+}
+
+.contact-main .gray-bg .container p {
+	font-size: 18px;
+}
+
+.contact-main .gray-bg .container input[type="radio"] + span,
+.contact-main .gray-bg .container input[type="checkbox"] + span {
+	font-size: 14px;
+}
+
+.contact-main .gray-bg .container select.wpcf7-select {
+	border: 1px solid #ccc;
+}
+
+.contact-main .gray-bg .container .wpcf7-submit {
+	width: 90%;
 }
 
 .lp-top .lp-top__cp {

@@ -4,7 +4,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>市川市で随一の【膝痛専門】整体院 神威 本八幡駅徒歩1分</title>
-		<link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style.css">
 		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style2.css">
 		<link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
 		<link href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" rel="stylesheet">
@@ -30,7 +30,7 @@
 		<header>
 			<div class="header-top ">
 				<div class="header-top__left">
-					<a class="left__logo" href="#"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png"></a>
+					<a class="left__logo" href="https://ichikawashi-hizatsuu.com/"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png"></a>
 				</div>
 
 				<div class="header-top__right">
@@ -52,12 +52,12 @@
 			<div class="pc-menu">
 				<ul class="pc-menu__list">
 					<li class="pc-menu__list__item"><a href="#"></span>トップページ</a></li>
-					<li class="pc-menu__list__item"><a href="#fascia">Fascia療法とは</a></li>
-					<li class="pc-menu__list__item"><a href="#voice">お客様の声</a></li>
-					<li class="pc-menu__list__item"><a href="#profile-thought">院長プロフィール</a></li>
-					<li class="pc-menu__list__item"><a href="#select">選ばれる理由</a></li>
-					<li class="pc-menu__list__item"><a href="#treatment">施術の流れ</a></li>
-					<li class="pc-menu__list__item"><a href="#suitable">こんな方はNG</a></li>
+					<li class="pc-menu__list__item"><a href="https://ichikawashi-hizatsuu.com/#fascia">Fascia療法とは</a></li>
+					<li class="pc-menu__list__item"><a href="https://ichikawashi-hizatsuu.com/#voice">お客様の声</a></li>
+					<li class="pc-menu__list__item"><a href="https://ichikawashi-hizatsuu.com/#profile-thought">院長プロフィール</a></li>
+					<li class="pc-menu__list__item"><a href="https://ichikawashi-hizatsuu.com/#select">選ばれる理由</a></li>
+					<li class="pc-menu__list__item"><a href="https://ichikawashi-hizatsuu.com/#treatment">施術の流れ</a></li>
+					<li class="pc-menu__list__item"><a href="https://ichikawashi-hizatsuu.com/#suitable">こんな方はNG</a></li>
 				</ul>
 			</div>
 
@@ -72,24 +72,24 @@
 			<div class="sp-menu">
 				<ul class="sp-menu__list">
 					<li class="sp-menu__list__item">
-						<a href="#">
+						<a href="https://ichikawashi-hizatsuu.com/">
 							<p>トップページ</p>
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a>
 					</li>
 					<li class="sp-menu__list__item">
-						<a href="#fascia">
+						<a href="https://ichikawashi-hizatsuu.com/#fascia">
 							<p>Fascia療法とは</p>
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a>
 					</li>
 					<li class="sp-menu__list__item">
-						<a href="#voice">
+						<a href="https://ichikawashi-hizatsuu.com/#voice">
 							<p>お客様の声</p>
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a></li>
 					<li class="sp-menu__list__item">
-						<a href="#profile-thought">
+						<a href="https://ichikawashi-hizatsuu.com/#profile-thought">
 							<p>院長プロフィール</p>
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a>
@@ -100,13 +100,13 @@
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a></li>
 					<li class="sp-menu__list__item">
-						<a href="#treatment">
+						<a href="https://ichikawashi-hizatsuu.com/#treatment">
 							<p>施術の流れ</p>
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a>
 					</li>
 					<li class="sp-menu__list__item">
-						<a href="#suitable">
+						<a href="https://ichikawashi-hizatsuu.com/#suitable">
 							<p>こんな方はNG</p>
 							<p><i class="fas fa-arrow-circle-right"></i></p>
 						</a>

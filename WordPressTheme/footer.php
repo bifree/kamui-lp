@@ -31,7 +31,7 @@
 				<a class="bottom__tel__btn" href="090-4607-3624"><i class="fas fa-phone-volume"></i>お電話で予約</a>
 			</div>
 			<div class="bottom__mail">
-				<a class="bottom__mail__btn" href=""><i class="far fa-envelope"></i>メールで予約</a>
+				<a class="bottom__mail__btn" href="<?php echo home_url('/contact'); ?>"><i class="far fa-envelope"></i>メールで予約</a>
 			</div>
 
 		</div>

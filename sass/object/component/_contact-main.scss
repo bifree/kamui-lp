@@ -1,9 +1,27 @@
 .contact-main {
+	.sp-block {
+		display: none;
+	}
+	textarea.wpcf7-textarea {
+		border: 1px solid #ccc;
+		@media screen and (max-width: 599px) {
+			width: 100%;
+			input {
+				width: 100%;
+			}
+		}
+	}
 	@media screen and (max-width: 599px) {
 		width: 100%;
+		input {
+			width: 100%;
+		}
 	}
 	textarea.wpcf7-textarea {
 		width: 70%;
+	}
+	input.wpcf7-text {
+		border-radius: 0.35rem;
 	}
 	.wpcf7-submit {
 		background-color: #3b80d3;
@@ -18,13 +36,39 @@
 	.gray-bg {
 		padding: 100px 0;
 		background-color: #EDEDED;
-		@media screen and (max-width: 599px) {
+		.container {
 			background-color: #fff;
 		}
-		.container {
-			width: 85%;
-			margin: 0 auto;
+		@media screen and (max-width: 599px) {
 			background-color: #fff;
+			.container {
+				width: 95%;
+				padding-top: 0;
+				margin: 0 auto;
+				background-color: #fff;
+				h1 {
+					font-size: 21px;
+					font-weight: 100;
+					text-align: center;
+					margin-bottom: 30px;
+					.sp-block {
+						display: block;
+					}
+				}
+				p {
+					font-size: 18px;
+				}
+				input[type="radio"] + span, 
+				input[type="checkbox"] + span {
+					font-size: 14px;
+				}
+				select.wpcf7-select {
+					border: 1px solid #ccc;
+				}
+				.wpcf7-submit {
+					width: 90%;
+				}
+			}
 		}
 	}
 }
