@@ -575,6 +575,14 @@ header {
 	display: none;
 }
 
+.contact-main {
+	width: 100%;
+}
+
+.contact-main .gray-bg {
+	background-color: #fff;
+}
+
 .lp-top .lp-top__cp {
 	display: none;
 }

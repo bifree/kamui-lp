@@ -1,4 +1,7 @@
 .contact-main {
+	@media screen and (max-width: 599px) {
+		width: 100%;
+	}
 	textarea.wpcf7-textarea {
 		width: 70%;
 	}
@@ -16,7 +19,7 @@
 		padding: 100px 0;
 		background-color: #EDEDED;
 		@media screen and (max-width: 599px) {
-			
+			background-color: #fff;
 		}
 		.container {
 			width: 85%;
