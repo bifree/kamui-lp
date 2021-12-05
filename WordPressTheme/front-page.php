@@ -44,6 +44,42 @@
 				</div>
 			</section>
 
+			<section class="voice">
+				<div class="container">
+					<div class="voice__item__top">
+						<h3 class="voice__title__top">10年以上悩んだ病院で治らない膝痛が<br class="sp-br">改善しました！</h3>
+						<iframe class="voice__youtube__top" width="" height="" src="https://www.youtube.com/embed/q8BQvrlbSeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<p class="voice__name">岡崎様</p>
+					
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>1</span>整体院 神威にご来院いただく前はどんなお悩みがありましたか？</p>
+						<p class="voice__a">ずっと立ち仕事をしていたので膝が痛くなり<span class="red">正座ができなかったり階段を降りる事ができなかったり、普通の平坦歩くのも痛かったです。</span>
+						</p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>2</span>どれくらいの期間辛かったんですか？</p>
+						<p class="voice__a"><span class="red">10年弱辛かったです。</span><br>
+						歩くのも痛くてだんだん斜め横にもなってしまい自転車も乗れなくなってしまいました。</p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>3</span>今まではお悩みを解決するためにどのようなことをされてきましたか？</p>
+						<p class="voice__a">病院に行って注射を打たれました。<br>
+						<span class="red">診断は「変形性膝関節症」と言われて注射を打ってもらったのですが逆に膝が痛くなり曲がらなくなってしまいました。</span><br>
+						リハビリもやったのですが,トレーニングを1,2ヶ月やって電気もやったりしてました。	</p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>4</span>それを行うとどのような効果や結果がありましたか？</p>
+						<p class="voice__a">こんなに柔らかいタオルを膝の下に入れたトレーニングをやって	何の意味があるのかな？と思っていて治らなかったです、、、</p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>5</span>当院には「なぜ、行ってみようかな？」と思ったのでしょうか？</p>
+						<p class="voice__a"><span class="red">この歳で歩けなくなってしまったら嫌だし恐いし、もっと先まで生きられるとしたらちゃんとした足で歩きたいし旅行にも行きたいと思っているからです！</span></p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>6</span>実際の当院の問診、検査、説明はいかがでしたか？</p>
+						<p class="voice__a"><span class="red">病院では説明がなかったのですがこちらでは模型を使ってもらいココが痛い時はココが悪いんだなと説明をして頂いて理解をしました！</span></p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>7</span>実際の当院の治療と病院のリハビリの違いはありましたか？ </p>
+						<p class="voice__a">薬と注射は絶対使わないことと先生の指と手と身体の技で
+						治してくれたんだなと思い<span class="red">>そこが病院とは違うなと思いました！</span></p>
+						<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>8</span>同じような症状を持っておられる方に向けて、何かメッセージをお願いします。</p>
+						<p class="voice__a"><span class="red">「諦めちゃダメです！」自分が希望があるなら痛い所は治して頑張るべきです！！</span></p>
+						<div class="voice__bottom">
+							<p class="voice__thanks">お忙しい中、貴重なお時間ありがとうございました。</p>
+							<p class="caution">※個人の感想であり、<br class="sp-br">成果や成功を保証するものではありません。</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
 
 
 			<section class="worries">
@@ -97,39 +133,6 @@
 			<section class="voice">
 				<div class="container">
 					<h2 class="sec-title">患者様の喜びの声</h2>
-					
-						<div class="voice__item__top">
-							<h3 class="voice__title__top">10年以上悩んだ病院で治らない膝痛が<br class="sp-br">改善しました！</h3>
-							<iframe class="voice__youtube__top" width="" height="" src="https://www.youtube.com/embed/q8BQvrlbSeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							<p class="voice__name">岡崎様</p>
-						
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>1</span>整体院 神威にご来院いただく前はどんなお悩みがありましたか？</p>
-							<p class="voice__a">ずっと立ち仕事をしていたので膝が痛くなり<span class="red">正座ができなかったり階段を降りる事ができなかったり、普通の平坦歩くのも痛かったです。</span>
-							</p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>2</span>どれくらいの期間辛かったんですか？</p>
-							<p class="voice__a"><span class="red">10年弱辛かったです。</span><br>
-							歩くのも痛くてだんだん斜め横にもなってしまい自転車も乗れなくなってしまいました。</p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>3</span>今まではお悩みを解決するためにどのようなことをされてきましたか？</p>
-							<p class="voice__a">病院に行って注射を打たれました。<br>
-							<span class="red">診断は「変形性膝関節症」と言われて注射を打ってもらったのですが逆に膝が痛くなり曲がらなくなってしまいました。</span><br>
-							リハビリもやったのですが,トレーニングを1,2ヶ月やって電気もやったりしてました。	</p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>4</span>それを行うとどのような効果や結果がありましたか？</p>
-							<p class="voice__a">こんなに柔らかいタオルを膝の下に入れたトレーニングをやって	何の意味があるのかな？と思っていて治らなかったです、、、</p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>5</span>当院には「なぜ、行ってみようかな？」と思ったのでしょうか？</p>
-							<p class="voice__a"><span class="red">この歳で歩けなくなってしまったら嫌だし恐いし、もっと先まで生きられるとしたらちゃんとした足で歩きたいし旅行にも行きたいと思っているからです！</span></p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>6</span>実際の当院の問診、検査、説明はいかがでしたか？</p>
-							<p class="voice__a"><span class="red">病院では説明がなかったのですがこちらでは模型を使ってもらいココが痛い時はココが悪いんだなと説明をして頂いて理解をしました！</span></p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>7</span>実際の当院の治療と病院のリハビリの違いはありましたか？ </p>
-							<p class="voice__a">薬と注射は絶対使わないことと先生の指と手と身体の技で
-							治してくれたんだなと思い<span class="red">>そこが病院とは違うなと思いました！</span></p>
-							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>8</span>同じような症状を持っておられる方に向けて、何かメッセージをお願いします。</p>
-							<p class="voice__a"><span class="red">「諦めちゃダメです！」自分が希望があるなら痛い所は治して頑張るべきです！！</span></p>
-							<div class="voice__bottom">
-								<p class="voice__thanks">お忙しい中、貴重なお時間ありがとうございました。</p>
-								<p class="caution">※個人の感想であり、<br class="sp-br">成果や成功を保証するものではありません。</p>
-							</div>
-						</div>
-
 					<div class="voice__content">
 						<div class="voice__item">
 							<h3 class="voice__title">膝痛で歩けなかったのが走れるまで<br class="pc-br">改善されました！</h3>
@@ -163,6 +166,45 @@
 								今自分の身体を大切にする事を覚えて今まで仕事で酷使していたのかな？と思えてこの先20年くらいは自分の力で元気で過ごせるように自分自身を大切に大事にする事を感じられるようになれました！<br>
 								<span class="red">元気に寝たきりにならないように！<br>
 								治す為には治したい気持ちが大切だなと思いました！</span></p>
+								<div class="voice__bottom">
+									<p class="voice__thanks">お忙しい中、貴重なお時間ありがとうございました。</p>
+									<p class="caution">※個人の感想であり、<br class="sp-br">成果や成功を保証するものではありません。</p>
+								</div>
+								<div class="voice__close">
+									<p>閉じる<i class="fas fa-angle-up"></i></p>
+								</div>
+							</div>
+						</div>
+
+						<div class="voice__item">
+							<h3 class="voice__title">階段が手すりなしで<br class="pc-br">歩けるようになりました！</h3>
+							<iframe class="voice__youtube" width="" height="" src="https://www.youtube.com/embed/eC5980CFN2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<p class="voice__name">Ｋ様 60代</p>
+							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>1</span>整体院 神威にご来院いただく前はどんなお悩みがありましたか？</p>
+							<p class="voice__a">最初は7,8年前から辛くて最近になり半年間くらいで悪くなり膝が痛くて立ったり座ったりや歩くのも辛く階段も辛かったです。</p>
+							<div class="voice__open">
+								<p>続きを読む<i class="fas fa-angle-down"></i></p>
+							</div>
+							<div class="voice__accordion">
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>2</span>今まではお悩みを解決するためにどのようなことをされてきましたか？</p>	
+								<p class="voice__a">職場で周りの人に水が溜まっているかも知れないと言われて整形外科に行ってみたら？と言われて病院に行ってみました。<br>
+								水を抜いてヒアルロン酸を打ちリハビリで電気をかけました。</p>
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>3</span>それを行うとどのような効果や結果がありましたか？</p>
+								<p class="voice__a">注射をして楽になるのですが結局また痛みが続いてしまい定期的にヒアルロン酸注射をしていました。<br>
+								ペースは月に2回とか打ってました。</p>
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>4</span>病院の治療では終わりは見えましたか？</p>
+								<p class="voice__a"><span class="red">終わりは見えなかったです。<br>
+								膝が悪いから溜まっているとその時は思っていたので病院に通ってました。</span><br>
+								膝痛くて7,8年はリハビリと注射を続けました。</p>
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>5</span>当院には「なぜ、行ってみようかな？」と思ったのでしょうか？</p>
+								<p class="voice__a">注射では効果が見えなかったので次は整体と決めていたので行ってみようかなと思いました。</p>
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>6</span>実際の当院の問診、検査、説明、はいかがでしたか？</p>
+								<p class="voice__a"><span class="red">話を丁寧に聞いて頂いたので病院との違いがそこで見えました。</span></p>
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>7</span>実際の当院の施術はいかがでしたか？</p>
+								<p class="voice__a">すぐ効果が出るわけではないがセルフケアと運動などの指導があり実行すると効果が出てくるのを実感しています。<br>
+								<span class="red">最初は手すりがないと階段が歩けなかったのですが手すりがなくて歩けるようになれました！（最初は痛くて変な歩き方でした、、、）</span></p>
+								<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>8</span>同じような症状を持っておられる方に向けて、何かメッセージをお願いします。</p>
+								<p class="voice__a"><span class="red">先生からも痛い所に原因があるわけではない</span>と言われて、それを実感していて、膝の痛みが和らぐだけではなくて自分の全体の健康状態もよくわかるようになり色んな健康管理に繋がっているので皆さんもぜひ試してみてください！</p>
 								<div class="voice__bottom">
 									<p class="voice__thanks">お忙しい中、貴重なお時間ありがとうございました。</p>
 									<p class="caution">※個人の感想であり、<br class="sp-br">成果や成功を保証するものではありません。</p>
