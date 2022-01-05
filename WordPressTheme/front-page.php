@@ -137,7 +137,7 @@
 						<div class="voice__item">
 							<h3 class="voice__title">膝痛で歩けなかったのが走れるまで<br class="pc-br">改善されました！</h3>
 							<iframe class="voice__youtube" width="" height="" src="https://www.youtube.com/embed/EnRs0s0LKmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							<p class="voice__name">岩井様 60代</p>
+							<p class="voice__name">若井様 60代</p>
 							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>1</span>整体院 神威にご来院いただく前はどんなお悩みがありましたか？</p>
 							<p class="voice__a">膝の裏が痛くて歩くのも大変でした。</p>
 							<div class="voice__open">
@@ -179,7 +179,7 @@
 						<div class="voice__item">
 							<h3 class="voice__title">階段が手すりなしで<br class="pc-br">歩けるようになりました！</h3>
 							<iframe class="voice__youtube" width="" height="" src="https://www.youtube.com/embed/eC5980CFN2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-							<p class="voice__name">Ｋ様 60代</p>
+							<p class="voice__name">K様 60代</p>
 							<p class="voice__q"><span class="voice__q__icon"><i class="fab fa-quora"></i>1</span>整体院 神威にご来院いただく前はどんなお悩みがありましたか？</p>
 							<p class="voice__a">最初は7,8年前から辛くて最近になり半年間くらいで悪くなり膝が痛くて立ったり座ったりや歩くのも辛く階段も辛かったです。</p>
 							<div class="voice__open">
@@ -376,6 +376,7 @@
 								</div>
 							</div>
 						</div>
+						
 
 						<div class="voice__item">
 							<h3 class="voice__title">膝関節症と脊柱管狭窄症、腰椎すべり症で<br class="pc-br">足の痺れや足の感覚がなかったのが<br class="pc-br">時間はかかりましたが運動も<br class="pc-br">できるようになりました！</h3>
