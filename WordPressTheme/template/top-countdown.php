@@ -28,7 +28,7 @@
 						ぜひお電話下さい!
 					</p>
 					<img class="price__pc11" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc11.png">
-					<a class="price__tel__pc" href="090-4607-3624">
+					<a class="price__tel__pc" href="tel:09046073624">
 						<img class="price__pc4" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc4.png">
 					</a>
 					<img class="price__pc5" 
@@ -36,7 +36,7 @@
 					
 					<img class="price__pc6" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc6.png">
 					
-					<a class="price__mail__pc" href="">
+					<a class="price__mail__pc" href="<?php echo home_url('/contact'); ?>">
 						<img class="price__pc7" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc7.png">
 					</a>
 				</div>
@@ -67,7 +67,7 @@
 			
 	
 					<img class="price__sp12" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp12.png">
-					<a class="price__tel__sp" href="090-4607-3624">
+					<a class="price__tel__sp" href="tel:09046073624">
 						<img class="price__sp4" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp4.png">
 					</a>
 					<img class="price__sp5" 
@@ -77,7 +77,7 @@
 					
 					<img class="price__sp7" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp7.png">
 					
-					<a class="price__mail__sp" href="">
+					<a class="price__mail__sp" href="<?php echo home_url('/contact'); ?>">
 						<img class="price__sp8" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp8.png">
 					</a>
 				</div>

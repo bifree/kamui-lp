@@ -1,9 +1,10 @@
 <html lang="ja">
 	<head>
+		
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>市川市で随一の【膝痛専門】整体院 神威 本八幡駅徒歩1分</title>
+		<title>市川市で唯一の【膝痛専門】整体院 神威 本八幡駅徒歩1分</title>
 		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style.css">
 		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/css/style2.css">
 		<link rel="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
@@ -22,7 +23,8 @@
 		<meta name="twitter:description" content="千葉県市川市で慢性腰痛・ヘルニア・坐骨神経痛・脊柱管狭窄症・ギックリ腰・腰椎すべり症などの腰痛でお困りの方へ。どこにいっても治らなかった腰痛を根本から取り除く施術をあなたも体験しませんか？あなたの痛みのお悩みに真剣に向き合います。" />
 		<meta name="twitter:image" content="https://ichikawashi-seitai.com/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 		<meta itemprop="image" content="https://ichikawashi-seitai.com/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
-
+		<!-- Global site tag (gtag.js) - Google Ads: 798514844 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-798514844"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-798514844'); </script>
+		<script> gtag('config', 'AW-798514844/fVuCCIrakY0DEJy94fwC', { 'phone_conversion_number': '090-4607-3624' }); </script>
 	</head>
 
 	<body>
@@ -34,11 +36,11 @@
 
 				<div class="header-top__right">
 					<div class="right__tel">
-						<a class="right__tel__btn" href="tel:090-4607-3624">
+						<a class="right__tel__btn" href="tel:09046073624">
 							<p ><i class="fas fa-phone-square-alt"></i></p>
 							<div class="right__tel__text">
 								<p class="right__tel__time">診察予約はお電話：9:00-22:00</p>
-								<p class="right__tel__number">090-4607-362</p>
+								<p class="right__tel__number">090-4607-3624</p>
 							</div>	
 						</a>
 					</div>
