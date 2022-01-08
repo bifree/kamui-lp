@@ -7,43 +7,6 @@
 			</div>
 
 
-
-			<div id="fascia"></div>
-			<section class="fascia">
-				<div class="container">
-					<h2 class="sec-title">NHKでも注目されたFasciaとは？</h2>
-					<div class="fascia-img">
-						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia-image.png">
-					</div>
-					<div class="fascia__content sentence">
-						<p class="fascia__text">Fasciaとは結合組織の事を言います。<br>
-						例えていうのであれば筋肉や内臓の間に	ある結合組織だったり靭帯や関節などの結合部などにある組織の事をFasciaと言います。<br>ほとんどの場合この<span class="red">結合組織が固くなりそこで筋肉や骨が動かなくなっていき疼痛（痛み）が出てきてしまいます。</span></p>
-					</div>
-				</div>
-			</section>
-
-
-	
-			<section class="fascia-herapy">
-				<div class="container">
-					<h2 class="sec-title">
-						<span class="yellow title-big">手術宣告</span>をされて悩み続けた<br>
-						<span class="yellow title-big">変形性膝関節症</span>を<span class="title-big">根本改善</span>させる<br>
-						<span class="yellow title-big">整体院 神威 Fascia療法</span>とは？</h2>
-						<div class="content-img">
-							<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia1.jpg">
-							<img class="content-img__image sp-none" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia2.jpg">
-							<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia3.jpg">
-						</div>
-					<p class="sentence">Fasciaとは結合組織の事を言います。<br>
-					例えていうのであれば筋肉や内臓の間にある結合組織だったり靭帯や関節などの結合部などにある組織の事をFasciaと言います。<br>
-					実は人間の身体はその結合組織が固くなりそこで筋肉や骨が動かなくなり疼痛（痛み）が出てしまいます。<br>
-					そして当院の治療はもちろん治療方法も大切にしていますが1番大切にしているのは<span class="yellow">痛みの原因を明確</span>にする事です。<br>
-					人間の生活リズムは1人1人違いますので膝が痛いとしても<span class="yellow">膝痛の痛みの原因も人それぞれ違います。</span><br>
-					ですのでまず初回ご来院時に問診をしっかりやらせて頂いてからあなたから頂いた生活の情報を元にして<span class="yellow">当院独自の痛みに特化した検査</span>でまずは<span class="yellow">痛みの原因を明確</span>にしていき原因が分かり次第その原因に対してFascia療法をする事で初めて症状が<span class="yellow">「根本改善」</span>されていきます！<span class="yellow size-big">1人1人の原因に合わせた完全オーダーメイドの施術方法が当院独自の根本改善型のFascia療法</span>になります！</p>
-				</div>
-			</section>
-
 			<section class="voice">
 				<div class="container">
 					<div class="voice__item__top">
@@ -80,7 +43,43 @@
 				</div>
 			</section>
 
+			
 
+			<div id="fascia"></div>
+			<section class="fascia">
+				<div class="container">
+					<h2 class="sec-title">NHKでも注目されたFasciaとは？</h2>
+					<div class="fascia-img">
+						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia-image.png">
+					</div>
+					<div class="fascia__content sentence">
+						<p class="fascia__text">Fasciaとは結合組織の事を言います。<br>
+						例えていうのであれば筋肉や内臓の間に	ある結合組織だったり靭帯や関節などの結合部などにある組織の事をFasciaと言います。<br>ほとんどの場合この<span class="red">結合組織が固くなりそこで筋肉や骨が動かなくなっていき疼痛（痛み）が出てきてしまいます。</span></p>
+					</div>
+				</div>
+			</section>
+
+
+	
+			<section class="fascia-herapy">
+				<div class="container">
+					<h2 class="sec-title">
+						<span class="yellow title-big">手術宣告</span>をされて悩み続けた<br>
+						<span class="yellow title-big">変形性膝関節症</span>を<span class="title-big">根本改善</span>させる<br>
+						<span class="yellow title-big">整体院 神威 Fascia療法</span>とは？</h2>
+						<div class="content-img">
+							<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia1.jpg">
+							<img class="content-img__image sp-none" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia2.jpg">
+							<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia3.jpg">
+						</div>
+					<p class="sentence">Fasciaとは結合組織の事を言います。<br>
+					例えていうのであれば筋肉や内臓の間にある結合組織だったり靭帯や関節などの結合部などにある組織の事をFasciaと言います。<br>
+					実は人間の身体はその結合組織が固くなりそこで筋肉や骨が動かなくなり疼痛（痛み）が出てしまいます。<br>
+					そして当院の治療はもちろん治療方法も大切にしていますが1番大切にしているのは<span class="yellow">痛みの原因を明確</span>にする事です。<br>
+					人間の生活リズムは1人1人違いますので膝が痛いとしても<span class="yellow">膝痛の痛みの原因も人それぞれ違います。</span><br>
+					ですのでまず初回ご来院時に問診をしっかりやらせて頂いてからあなたから頂いた生活の情報を元にして<span class="yellow">当院独自の痛みに特化した検査</span>でまずは<span class="yellow">痛みの原因を明確</span>にしていき原因が分かり次第その原因に対してFascia療法をする事で初めて症状が<span class="yellow">「根本改善」</span>されていきます！<span class="yellow size-big">1人1人の原因に合わせた完全オーダーメイドの施術方法が当院独自の根本改善型のFascia療法</span>になります！</p>
+				</div>
+			</section>
 
 			<section class="worries">
 				<div class="container">
