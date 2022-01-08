@@ -1,5 +1,6 @@
 <html lang="ja">
 	<head>
+		
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -35,7 +36,7 @@
 
 				<div class="header-top__right">
 					<div class="right__tel">
-						<a class="right__tel__btn" href="tel:090-4607-3624">
+						<a class="right__tel__btn" href="tel:09046073624">
 							<p ><i class="fas fa-phone-square-alt"></i></p>
 							<div class="right__tel__text">
 								<p class="right__tel__time">診察予約はお電話：9:00-22:00</p>
