@@ -59,6 +59,7 @@ select {
 	background-repeat: no-repeat;
 	background-size: 12px 12px;
 	padding-right: 30px;
+	width: 100%;
 }
 
 .select {
@@ -66,6 +67,7 @@ select {
 	display: inline-block;
 	overflow: hidden;
 	position: relative;
+	width: 100%;
 }
 
 .select select {
