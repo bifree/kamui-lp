@@ -83,25 +83,28 @@
 
 			<section class="worries">
 				<div class="container">
-					<h2 class="sec-title">あなたはこんなお悩みありませんか？</h2>
-					<p class="sec-title__sub">以下に一つでも当てはまるなら<br class="sp-br">整体院 神威(カムイ)がお役に立てます!</p>
+					<h2 class="sec-title">3 つ以上の病院・治療院に通院した<br class="sp-br">が膝痛が一向に改善されず<br>
+					「一生付き合っていくしかない」<br class="sp-br">と諦めていませんか？</h2>
+					<p class="worries__subtitle">以下に一つでも<span class="worries__dot">当</span><span class="worries__dot">て</span><span class="worries__dot">は</span><span class="worries__dot">ま</span><span class="worries__dot">る</span><span class="worries__dot">な</span><span class="worries__dot">ら</span><br class="sp-br">整体院 神威(カムイ)が<spna class="worries__underline">お役に立てます!</span></p>
 					<div class="worries__content">
 						<ul class="worries__list"> 
-							<li class="checkmark">病院で<span class="red">手術</span>しないと<span class="red">治らない</span>と言われて落胆している。</li>
-							<li class="checkmark">病院へ<span class="red">1年以上通院</span>したが一向に<span class="red">改善されず</span>に悩んでいる。</li>
-							<li class="checkmark"><span class="red">ヒアルロン酸注射,痛み止めの注射</span>を打ったが症状が戻ってしまう。</li>
-							<li class="checkmark"><span class="red">歩き出しの1歩目</span>から痛くて歩くのが<span class="red">億劫</span>になっていて外出が少なくなった。</li>
-							<li class="checkmark">階段の下りが膝が痛くて<span class="red">転ぶのが恐い</span></li>
-							<li class="checkmark">階段を登る時に手すりに頼ってしまい<span class="red">将来階段が登れなくなるのが不安</span></li>
-							<li class="checkmark"><span class="red">運動</span>をしたいが膝が痛くて、できなくなってしまった。</li>
-							<li class="checkmark">将来人の助けがないと歩けなくなる事の<span class="red">将来の不安がある。</span></li>
+							<li class="checkmark__none">病院で<span class="red">手術しないと治らない</span>と言われて落胆している。</li>
+							<li class="checkmark__none">病院へ<span class="red">1年以上通院</span>してリハビリを頑張ったが一向に改善されずに諦めかけている。 </li>
+							<li class="checkmark__none"><span class="red">ヒアルロン酸注射,痛み止めの注射</span>を打ったが症状改善が長続きせず痛みが戻ってしまう。 </li>
+							<li class="checkmark__none">歩き出しの<span class="red">1歩目から痛くて歩くのが億劫</span>になっていて外出が少なくなった。</li>
+							<li class="checkmark__none">階段の下りが膝痛で<span class="red">転ぶ事をイメージ</span>できるようになってしまった。</li>
+							<li class="checkmark__none">階段を登る時に手すりに頼ってしまい<span class="red">将来階段が登れなくなるのが不安</span></li>
+							<li class="checkmark__none"><span class="red">運動をしたい</span>が膝が痛くて、できなくなってしまった。</li>
+							<li class="checkmark__none">人の助けがないと<span class="red">歩けなくなる事への将来の不安</span>がある。</li>
 						</ul>
 						<div class="worries__img">
 							<img src="<?php echo get_template_directory_uri(); ?>/assets/img/worries.jpg">
 						</div>
 					</div>
+					<div class="worries__bottom sentence">
+						<p class="worries__bottom__title">私から一つこんなご提案がございます。 </p>
+						<p class="worries__bottom__text">もしあなたが上記に一つでも当てはまり、心のどこかでこの痛みをなんとかしたい！<span class="red">膝の痛みがない元通りの生活に戻りたい!</span>と思われているなら 整体院神威（カムイ）に来院し、<span class="marker-yellow size-big">その辛い我慢している<span class="red">膝痛</span>を根本改善して<span class="red">将来の不安まで解決</span>させませんか？</span>という事です。 ただし、もしあなたが「そんな良い話があるわけがない」と思うのでしたら、今すぐこのページを閉じて下さい。 あなたの大切なお時間が無駄になってしまいます。 でも「この辛さをあなたがなんとかしたい」と思っているのでしたら、ゆっくりとページをお進み下さい。 事実、私の整体院にご来院頂いた方々はこんな驚きの変化を手に入れています…</p>
 				</div>
-				<p class="worries__useful">一つでも当てはまるなら<br class="sp-br">整体院 神威<span class="sp-none">(カムイ)</span>がお役に立てます！</p>
 			</section>
 			
 			<section class="knee">

@@ -225,10 +225,33 @@ header{
 
 
 
+.worries__subtitle{
+  text-align:center;
+  font-size:24px;
+  padding:10px;
+  margin:50px 0;
+}
+
+.worries__dot{
+  position: relative; 
+}
+
+.worries__dot::before {
+  content: "・"; 
+  position: absolute;
+  top: -1.25em; 
+  left: 0; 
+}
+
+.worries__underline{
+  border-bottom:solid 1px #333;
+}
+
 .worries__content{
   display:flex;
   justify-content:space-between;
   width:900px;
+  padding:0 30px;
   margin:0 auto;
   align-items:center;
 }
@@ -239,7 +262,6 @@ header{
 
 .worries__img{
   width:27%;
-
 }
 
 .worries__img img{
@@ -247,6 +269,10 @@ header{
   height:250px;
   object-fit:cover;
   border-radius:50%;
+}
+
+.checkmark__none{
+  list-style:disc;
 }
 
 .checkmark {
@@ -282,30 +308,18 @@ header{
 	top:18px;
 }
 
-.worries__useful{
-  display:none;
-  font-size:24px;
-  color:#fff;
+.worries__bottom{
+  color:#555;
+}
+
+.worries__bottom__title{
   text-align:center;
-  background: linear-gradient(to right, #209cff 0%, #68e0cf 100%);
-  padding:50px;
-  position:relative;
+  font-size:24px;
+  padding:20px 0;
+  margin:40px 0 30px;
+  border-top:1px solid #555;
+  border-bottom:1px solid #555;
 }
-
-.worries__useful:before{
-  display:none;
-  content:"";
-  top:0;
-  left:calc(50% - 60px);
-  position:absolute;
-  width: 0;
-  height: 0;
-  border-style: solid;
-  border-width: 30px 60px 0 60px;
-  border-color:#fff transparent transparent transparent;
-}
-
-
 
 .content-img{
   display:flex;
@@ -1401,6 +1415,11 @@ span.required {
   width:100%;
   margin-top:60px;
   }
+
+  .worries__subtitle{
+    font-size:4.3vw;
+    margin:20px 0;
+  }
     
   .worries__content{
     flex-direction:column-reverse;
@@ -1412,18 +1431,19 @@ span.required {
   }
   
   .worries__img{
-    margin:0 0 10px;
+    margin:0 0 20px;
     width:45%;
   }
   
   .worries__img img{
     width:100%;
-    height:40vw;
+    height:35vw;
   }
 
-  .worries__useful{
-    font-size:20px;
-    padding:40px 20px 30px;
+  .worries__bottom__title{
+    font-size:4.3vw;
+    margin:30px 0 20px;
+    padding:10px 0;
   }
   
   .content-img__image{
