@@ -24,7 +24,8 @@
 		<meta name="twitter:image" content="https://ichikawashi-seitai.com/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 		<meta itemprop="image" content="https://ichikawashi-seitai.com/wp/wp-content/plugins/all-in-one-seo-pack/images/default-user-image.png" />
 		<!-- Global site tag (gtag.js) - Google Ads: 798514844 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-798514844"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-798514844'); </script>
-		<script> gtag('config', 'AW-798514844/fVuCCIrakY0DEJy94fwC', { 'phone_conversion_number': '090-4607-3624' }); </script>
+		<!-- Event snippet for 膝 LP CV conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-798514844/ladSCODa1pADEJy94fwC', 'event_callback': callback }); return false; } </script>
+
 	</head>
 
 	<body>
@@ -36,7 +37,7 @@
 
 				<div class="header-top__right">
 					<div class="right__tel">
-						<a class="right__tel__btn" href="tel:09046073624">
+						<a onclick="return gtag_report_conversion('tel:800-123-4567');" class="right__tel__btn" href="tel:09046073624">
 							<p ><i class="fas fa-phone-square-alt"></i></p>
 							<div class="right__tel__text">
 								<p class="right__tel__time">診察予約はお電話：9:00-22:00</p>

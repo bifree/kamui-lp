@@ -7,10 +7,40 @@
 			</div>
 
 
+			<section class="knee">
+				<div class="container">
+					<h2 class="sec-title red sec-title__small">変形性膝関節症でなぜ痛みは起こる?<br>変形性で痛みが起きる原因解説!</h2>
+					<div class="content-img">
+						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee1.jpg">
+						<img class="content-img__image sp-none" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee2.jpg">
+						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee3.jpg">
+					</div>
+					<p class="sentence">近年多くなっている変形性膝関節症と診断されて痛みがなぜ起きてしまうのか?<br>
+					<span class="red">あなたはご存知でしょうか?</span>
+					一般的に言われているのは加齢や体重の増加などもしくは長年の疲労の蓄積で知らず知らずのうちに膝に負担がかかってしまい関節と関節がすり減ってしまうから痛みが出ていると言われています。<br>
+					<span class="red">ですが、、、実はそれだけでは痛みというのは感じません!</span>
+					荷重や負担がかかることで骨の膜に刺激がいき膜組織が捻れたり縮んだり伸びたりする事で痛みが出てしまっているというのがほとんどの本当の痛みの原理になります。ですので骨が変形しているから<span class="red">変形だけを手術されたとしても痛みが改善されなかったり痛みが半年 1 年したら戻ってしまう事は普通であり当たり前なのです</span>。なのでまずは変形性だからといって安易に手術やヒアルロン酸の注射を打ち続けても痛みは根本的には治らずに<span class="red">むしろ逆に再発しやすい身体づくり</span>をされている事になるので<br>
+					このページを読んでいただいているあなたは安易な選択肢を取らずになぜ痛みが出てしまうのかを真剣に考える事がとても重要になります。そしてもっと言ってしまえば「膝関節症」で「手術宣告」を仮に受けていたとしても手術を受けずに改善する方法があるという事です!<br>
+					当院の患者様は変形性でも注射や手術なしで<span class="red">
+						<span class="worries__dot">こ</span>
+						<span class="worries__dot">ん</span>
+						<span class="worries__dot">な</span>
+						<span class="worries__dot">驚</span>
+						<span class="worries__dot">き</span>
+						<span class="worries__dot">の</span>
+						<span class="worries__dot">変</span>
+						<span class="worries__dot">化</span>
+					</span>を手に入れています!</p>
+				</div>
+			</section>
+
+			
+
 			<section class="voice">
 				<div class="container">
+				<h2 class="sec-title">患者様のお声</h2>
 					<div class="voice__item__top">
-						<h3 class="voice__title__top">10年以上悩んだ病院で治らない膝痛が<br class="sp-br">改善しました！</h3>
+						<h3 class="voice__title__top">10年以上悩んだ病院で治らない膝痛が改善しました！</h3>
 						<iframe class="voice__youtube__top" width="" height="" src="https://www.youtube.com/embed/q8BQvrlbSeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						<p class="voice__name">岡崎様</p>
 					
@@ -43,12 +73,12 @@
 				</div>
 			</section>
 
-			
 
+		
 			<div id="fascia"></div>
 			<section class="fascia">
 				<div class="container">
-					<h2 class="sec-title">NHKでも注目されたFasciaとは？</h2>
+					<h2 class="sec-title">NHKでも注目された<br class="sp-br">Fasciaとは？</h2>
 					<div class="fascia-img">
 						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/fascia-image.png">
 					</div>
@@ -63,7 +93,7 @@
 	
 			<section class="fascia-herapy">
 				<div class="container">
-					<h2 class="sec-title">
+					<h2 class="sec-title sec-title__small">
 						<span class="yellow title-big">手術宣告</span>をされて悩み続けた<br>
 						<span class="yellow title-big">変形性膝関節症</span>を<span class="title-big">根本改善</span>させる<br>
 						<span class="yellow title-big">整体院 神威 Fascia療法</span>とは？</h2>
@@ -83,8 +113,7 @@
 
 			<section class="worries">
 				<div class="container">
-					<h2 class="sec-title">3 つ以上の病院・治療院に通院した<br class="sp-br">が膝痛が一向に改善されず<br>
-					「一生付き合っていくしかない」<br class="sp-br">と諦めていませんか？</h2>
+					<h2 class="sec-title sec-title__small">3 つ以上の病院・治療院に通院した<br class="sp-br">が今の辛い「膝痛」が改善されず<br class="sp-br"><span class="red">「一生付き合っていくしかない」</span><br class="sp-br">と諦めていませんか?</h2>
 					<p class="worries__subtitle">以下に一つでも<span class="worries__dot">当</span><span class="worries__dot">て</span><span class="worries__dot">は</span><span class="worries__dot">ま</span><span class="worries__dot">る</span><span class="worries__dot">な</span><span class="worries__dot">ら</span><br class="sp-br">整体院 神威(カムイ)が<spna class="worries__underline">お役に立てます!</span></p>
 					<div class="worries__content">
 						<ul class="worries__list"> 
@@ -107,27 +136,7 @@
 				</div>
 			</section>
 			
-			<section class="knee">
-				<div class="container">
-					<h2 class="sec-title">変形性膝関節症とは？</h2>
-					<div class="content-img">
-						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee1.jpg">
-						<img class="content-img__image sp-none" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee2.jpg">
-						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee3.jpg">
-					</div>
-					<p class="sentence">近年多くなっている変形性膝関節症による痛みはなぜ起きてしまうのか？
-					あなたはご存知でしょうか？<br>
-					それは加齢や体重の増加などもしくは長年の疲労の蓄積で知らず知らずのうちに膝に負担がかかってしまい関節と関節がすり減ってしまうからというのが一般的です。<br>
-					<span class="red">ですが、、、実はそれだけでは痛みというのは感じません!</span><br>
-					 荷重や負担がかかることで<span class="red">骨の膜に刺激が与えられて痛みが出てしまっているというのが本当の痛みの原理です。</span>ですので骨膜が捻れてしまい痛みが生じているのです。<span class="red">ポイントは痛みのセンサーは骨にはないという事です!</span>痛みのセンサーは実は 「膜組織」にあるという研究もあります。膜自体が膝を曲げたときや膝を捻った時に一緒に捻れてそれが戻らなくなってしまったり複雑に捻れすぎてしまい痛みが出てしまっています。ですのでそこを<span class="red">手術などで骨のすり減りを無くしたとしても痛みが取れないという方が多いのは骨が原因ではなくて膜に対してのアプローチを行っていないので痛みが取れないということになります。</span>
-					なので膝関節症で<span class="red">手術宣告</span>を受けたとしても手術を受けずに改善する方法があるという事です！</p>
-					<div class="knee__fascia">
-						<p class="knee__fascia__text">手術宣告をされて悩み続けた<br>変形性膝関節症を根本改善させる方法が</p>
-						<h1 class="knee__fascia__name">整体院 神威  Fascia療法</h1>
-					</div>
-					<div class="knee__triangle"></div>
-				</div>
-			</section>
+			
 
 
 
@@ -485,7 +494,7 @@
 			<div id="select"></div>
 			<section class="select">
 				<div class="container">
-					<h2 class="sec-title">当院が予約待ちでも選ばれる理由</h2>
+					<h2 class="sec-title">当院が予約待ちでも<br class="sp-br">選ばれる理由</h2>
 					<div class="select__img">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/select-top.jpg">
 					</div>
@@ -802,7 +811,7 @@
 			<div id="suitable"></div>
 			<section class="suitable">
 				<div class="container">
-					<h2 class="sec-title">整体院 神威 こんな方は N G</h2>
+					<h2 class="sec-title">整体院 神威 <br class="sp-br">こんな方は N G</h2>
 					<div class="suitable__content">
 						<div class="suitable__lists">
 							<p class="suitable__list__item">以下のような方は<br class="sp-br">当院には向いておりません。</p>

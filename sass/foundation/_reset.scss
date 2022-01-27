@@ -49,12 +49,16 @@ img{
 }
 
 .sec-title{
-  font-size:36px;
+  font-size:44px;
   text-align:center;
   color:#3D71B8;
   padding-bottom:20px;
   margin-bottom:50px;
   position:relative;
+}
+
+.sec-title__small{
+  font-size:40px;
 }
 
 .sec-title,.pc-menu,.sp-menu{
@@ -99,7 +103,7 @@ img{
 }
 
 .title-big{
-  font-size:46px;
+  font-size:50px;
   padding:10px 0;
   font-weight:bold;
 }
@@ -113,4 +117,16 @@ header{
   right:0;
   box-shadow:0px 1px rgba(195,195,195,0.2);
   z-index:6;
+}
+
+@media screen and (max-width:599px){
+  .sec-title{
+    font-size:8vw;
+    padding-bottom:10px;
+    margin-bottom:30px;
+  }
+
+  .sec-title__small{
+    font-size:5.1vw
+  }
 }
