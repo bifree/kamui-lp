@@ -11,11 +11,11 @@
 						<img class="price__pc3" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc3.png">
 					</div>
 
-					<p class="price__limited"><span class="price__limited__square">当月限定</span><span class="price__limited__number"> <?php the_field('deadline-month'); ?> </span>月<span class="price__limited__number"> <?php the_field('deadline-date'); ?> </span>日（<?php the_field('which-day'); ?>）まで<br>1ヶ月先着<span class="price__limited__number"> <?php the_field('first-served-people-amount'); ?> </span>名様のみ</p>
+					<p class="price__limited"><span class="price__limited__square">当月限定</span><span class="price__limited__number"> <?php the_field('deadline-month'); ?> </span>月<span class="price__limited__number"> <?php the_field('deadline-date'); ?> </span>日（<?php the_field('which-day'); ?>）まで<br>1ヶ月先着<span class="price__limited__number"> <?php the_field('first-served-people-amount'); ?> </span>名様限定</p>
 					<img class="price__pc8" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc8.png"> 		
 					
 					<div class="price__people">
-						<p class="price__people__text">残り <span class="price__people__number"> <?php the_field('limited-people-amount'); ?> </span> 名様</p>
+						<p class="price__people__text">残り <span class="price__people__number"> <?php the_field('limited-people-amount'); ?> </span> 名様のみ</p>
 					</div>
 					<img class="price__pc10" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-pc10.png">
 					<p class="price__text">
@@ -51,14 +51,13 @@
 						<img class="price__sp3" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp3.png">
 					</div>
 
-
-					<img class="price__sp13" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp13.png">
 					<p class="price__limited">
-						<span class="price__limited__number"> <?php the_field('deadline-month'); ?> </span>月<span class="price__limited__number"> <?php the_field('deadline-date'); ?> </span>日(<?php the_field('which-day'); ?>)</span>まで<br>1ヶ月先着<span class="price__limited__number"> <?php the_field('first-served-people-amount'); ?> </span>名様のみ</p>
+					<span class="price__limited__square">当月限定</span> 
+					<span class="price__limited__number"> <?php the_field('deadline-month'); ?></span> 月 <span class="price__limited__number"><?php the_field('deadline-date'); ?></span> 日(<?php the_field('which-day'); ?>)</span>まで<br>1ヶ月先着 <span class="price__limited__number"><?php the_field('first-served-people-amount'); ?></span> 名様限定</p>
 					<img class="price__sp9" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp9.png"> 		
 					
 					<div class="price__people">
-						<p class="price__people__text">残り <span class="price__people__number"> <?php the_field('limited-people-amount'); ?> </span> 名様</p>
+						<p class="price__people__text">残り <span class="price__people__number"><?php the_field('limited-people-amount'); ?></span> 名様のみ</p>
 					</div>
 					<img class="price__sp11" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp11.png">
 					<img class="price__sp14" src="<?php echo get_template_directory_uri(); ?>/assets/img/price-sp14.png">

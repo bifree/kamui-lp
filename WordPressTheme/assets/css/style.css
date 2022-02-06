@@ -401,6 +401,13 @@ img {
 	width: 400px;
 }
 
+.sec-title-big,
+.title-big {
+	font-size: 50px;
+	font-weight: bold;
+	padding: 10px 0;
+}
+
 .red {
 	color: red;
 	font-weight: bold;
@@ -588,6 +595,72 @@ header {
 
 .sec-title__small {
 	font-size: 5.1vw;
+}
+
+.sec-title__small,
+.sec-title-sp-small {
+	font-size: 5.1vw;
+}
+
+.sec-title-sp-small {
+	font-size: 6.6vw;
+}
+
+.sec-title-sp-small-big {
+	font-size: 7.5vw;
+}
+
+.bottom__tel__btn,
+.bottom__mail__btn {
+	border-radius: 4px;
+	color: #fff;
+	font-size: 2.8vw;
+	padding: 5px 25px;
+	text-align: center;
+}
+
+price__limited {
+	font-size: 6.25vw;
+	font-weight: 600;
+	margin-top: 20px;
+}
+
+.price__limited__square {
+	border: 2px solid yellow;
+	color: yellow;
+	font-size: 5.625vw;
+	font-weight: normal;
+	padding: 5px 5px;
+	vertical-align: text-bottom;
+}
+
+.price__limited__number {
+	font-size: 10.625vw;
+}
+
+.price__sp9 {
+	margin: 0 auto;
+	margin-bottom: 0px;
+}
+
+.price__people {
+	align-items: center;
+	color: yellow;
+	font-size: 8.75vw;
+	height: auto;
+	margin-bottom: 10px;
+}
+
+.price__people__number {
+	background-image: none;
+	background-position: center;
+	background-size: auto;
+	color: yellow;
+	display: inline-block;
+	font-size: 15vw;
+	font-weight: 600;
+	height: auto;
+	width: auto;
 }
 
 .l-header .header-top {

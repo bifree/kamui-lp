@@ -102,7 +102,7 @@ img{
   font-weight:bold;
 }
 
-.title-big{
+.sec-title-big,.title-big{
   font-size:50px;
   padding:10px 0;
   font-weight:bold;
@@ -1256,8 +1256,16 @@ span.required {
     margin-bottom:30px;
   }
 
-  .sec-title__small{
+  .sec-title__small,.sec-title-sp-small{
     font-size:5.1vw
+  }
+
+  .sec-title-sp-small{
+    font-size:6.6vw
+  }
+
+  .sec-title-sp-small-big{
+    font-size:7.5vw
   }
 
   .sec-title:before {
@@ -1836,7 +1844,7 @@ span.required {
     font-size:2.8vw;
     border-radius:4px;
     color:#fff;
-    padding:5px 30px;
+    padding:5px 25px;
   }
 
   .bottom__tel__btn{
@@ -1918,12 +1926,22 @@ span.required {
   }
 
   .price__limited{
-    font-size:24px;
-    margin-top:5px;
+    font-size:6.25vw;
+    margin-top:20px;
+    font-weight:600;
+  }
+
+  .price__limited__square{
+    color:yellow;
+    border:2px solid yellow;
+    font-size:5.625vw;
+    padding:5px 5px;
+    font-weight:normal;
+    vertical-align:text-bottom;
   }
 
   .price__limited__number{
-    font-size:36px;
+    font-size:10.625vw;
   }
 
   .price__sp5{
@@ -1943,27 +1961,27 @@ span.required {
   
   .price__sp9{
     margin:0 auto;
-    margin-bottom:10px;
+    margin-bottom:0px;
   }
   
   .price__people{
-    height:80px;
+    height:auto;
     align-items:center;
     color:yellow;
-    font-size:24px;
-    margin-bottom:20px;
+    font-size:8.75vw;
+    margin-bottom:10px;
   }
   
   .price__people__number{
     display:inline-block;
-    background-image:url("../img/price-sp10.png");
+    background-image:none;
     background-position:center;
-    background-size:80px 80px;
-    height:80px;
-    width:80px;
-    font-size:42px;
+    background-size:auto;
+    height:auto;
+    width:auto;
+    font-size:15vw;
     font-weight:600;
-    color:#3D71B8
+    color:yellow;
   }
 
   .price__sp14{

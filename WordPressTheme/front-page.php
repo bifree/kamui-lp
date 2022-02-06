@@ -9,7 +9,9 @@
 
 			<section class="knee">
 				<div class="container">
-					<h2 class="sec-title red sec-title__small">変形性膝関節症でなぜ痛みは起こる?<br>変形性で痛みが起きる原因解説!</h2>
+					<h2 class="sec-title red sec-title-sp-small">変形性膝関節症でなぜ痛みは起こる?<br class="pc-br">
+					<span class="sec-title-sp-small-big">9割以上の人は勘違いをしている</span><br class="pc-br">
+					関節症による痛みの<span class="sec-title-sp-small-big">本当の原因解説!</h2>
 					<div class="content-img">
 						<img class="content-img__image" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee1.jpg">
 						<img class="content-img__image sp-none" src="<?php echo get_template_directory_uri(); ?>/assets/img/knee2.jpg">
@@ -19,7 +21,7 @@
 					<span class="red">あなたはご存知でしょうか?</span>
 					一般的に言われているのは加齢や体重の増加などもしくは長年の疲労の蓄積で知らず知らずのうちに膝に負担がかかってしまい関節と関節がすり減ってしまうから痛みが出ていると言われています。<br>
 					<span class="red">ですが、、、実はそれだけでは痛みというのは感じません!</span>
-					荷重や負担がかかることで骨の膜に刺激がいき膜組織が捻れたり縮んだり伸びたりする事で痛みが出てしまっているというのがほとんどの本当の痛みの原理になります。ですので骨が変形しているから<span class="red">変形だけを手術されたとしても痛みが改善されなかったり痛みが半年 1 年したら戻ってしまう事は普通であり当たり前なのです</span>。なのでまずは変形性だからといって安易に手術やヒアルロン酸の注射を打ち続けても痛みは根本的には治らずに<span class="red">むしろ逆に再発しやすい身体づくり</span>をされている事になるので<br>
+					荷重や負担がかかることで骨の膜に刺激がいき膜組織が捻れたり縮んだり伸びたりする事で痛みが出てしまっているというのがほとんどの本当の痛みの原理になります。ですので骨が変形しているから<span class="red">変形だけを手術されたとしても痛みが改善されなかったり痛みが半年1年したら戻ってしまう事は普通であり当たり前なのです</span>。なのでまずは変形性だからといって安易に手術やヒアルロン酸の注射を打ち続けても痛みは根本的には治らずに<span class="red">むしろ逆に再発しやすい身体づくり</span>をされている事になるので<br>
 					このページを読んでいただいているあなたは安易な選択肢を取らずになぜ痛みが出てしまうのかを真剣に考える事がとても重要になります。そしてもっと言ってしまえば「膝関節症」で「手術宣告」を仮に受けていたとしても手術を受けずに改善する方法があるという事です!<br>
 					当院の患者様は変形性でも注射や手術なしで<span class="red">
 						<span class="worries__dot">こ</span>

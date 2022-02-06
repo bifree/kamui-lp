@@ -76,6 +76,12 @@ img{
   opacity:0.8;
 }
 
+.sec-title-big,.title-big{
+  font-size:50px;
+  padding:10px 0;
+  font-weight:bold;
+}
+
 .red{
   color:red;
   font-weight:bold;
@@ -128,5 +134,70 @@ header{
 
   .sec-title__small{
     font-size:5.1vw
+  }
+
+  .sec-title__small,.sec-title-sp-small{
+    font-size:5.1vw
+  }
+
+  .sec-title-sp-small{
+    font-size:6.6vw
+  }
+
+  .sec-title-sp-small-big{
+    font-size:7.5vw
+  }
+
+  .bottom__tel__btn,.bottom__mail__btn{
+    text-align:center;
+    
+    font-size:2.8vw;
+    border-radius:4px;
+    color:#fff;
+    padding:5px 25px;
+  }
+
+  price__limited{
+    font-size:6.25vw;
+    margin-top:20px;
+    font-weight:600;
+  }
+
+  .price__limited__square{
+    color:yellow;
+    border:2px solid yellow;
+    font-size:5.625vw;
+    padding:5px 5px;
+    font-weight:normal;
+    vertical-align:text-bottom;
+  }
+
+  .price__limited__number{
+    font-size:10.625vw;
+  }
+
+  .price__sp9{
+    margin:0 auto;
+    margin-bottom:0px;
+  }
+  
+  .price__people{
+    height:auto;
+    align-items:center;
+    color:yellow;
+    font-size:8.75vw;
+    margin-bottom:10px;
+  }
+  
+  .price__people__number{
+    display:inline-block;
+    background-image:none;
+    background-position:center;
+    background-size:auto;
+    height:auto;
+    width:auto;
+    font-size:15vw;
+    font-weight:600;
+    color:yellow;
   }
 }
